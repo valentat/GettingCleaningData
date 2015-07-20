@@ -11,6 +11,10 @@ The table consists of the following fields:
   * `{statistic}` may be `mean` or `std` for standard deviation;
   * `{axis}` may be `x`, `y` or `z`.
 
+For actions taken to produce the tidy dataset from the original one, see the R script [`run_analysis.R`](run_analysis.R), comments therein and README of the original dataset.
+
+
+## Data description
 
 The experiments have been carried out with a group of 30 volunteers
 within an age bracket of 19-48 years. Each person performed the six activities

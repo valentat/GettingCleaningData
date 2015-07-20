@@ -25,3 +25,5 @@ You should create one R script called `run_analysis.R` that does the following.
 3. After a successful run, two files are created in your working directory:
   * [`UCI_HAR_tidy.txt`](UCI_HAR_tidy.txt) -- A tidy dataset based on the original data. For details, see the [Codebook](Codebook.md).
   * [`UCI_HAR_means.txt`](UCI_HAR_means.txt) -- A dataset created from [`UCI_HAR_tidy.txt`](UCI_HAR_tidy.txt) with means of features by Subject and Activity.
+
+For actions taken to produce the tidy dataset from the original one, see the R script [`run_analysis.R`](run_analysis.R), comments therein and README of the original dataset.
